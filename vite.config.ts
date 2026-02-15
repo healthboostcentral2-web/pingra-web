@@ -3,7 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  build: {
-    outDir: 'dist'
-  }
+  base: "./",   // ⭐⭐⭐ এটা না থাকলে Netlify blank page দেয়
 })

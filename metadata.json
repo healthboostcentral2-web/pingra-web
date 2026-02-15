@@ -1,0 +1,5 @@
+{
+  "name": "Pingra",
+  "description": "A modern, dark-themed chat application featuring a responsive design inspired by Discord and WhatsApp. Built with React, Tailwind CSS, and Firebase.",
+  "requestFramePermissions": []
+}
